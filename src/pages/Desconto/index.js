@@ -38,7 +38,7 @@ return (
      <div className='container-dep'>
          <div className='content-dep'>
              <div className='header-desc'>
-                 <h1>Espera un minuto, ¡acabas de obtener un 40 % de descuento en el método!</h1>
+                 <h1>Espera un minuto, ¡acabas de obtener un 14% de descuento en el método!</h1>
                  <h1 className='oferta'>Este descuento termina en:</h1>
              </div>
              <div id='timer'></div>
@@ -54,7 +54,7 @@ return (
           <div className='button-create'>
              <h1 className='desconto-title'>Asegura tu descuento <span className='text-desc'>27,00 dólares por 23,00 dólares</span></h1>
          </div>
-           <button onClick={() => openInNewTab('https://pay.hotmart.com/I72056899U?off=bfuoyjdv&checkoutMode=10')} className='button-desc'>CLIQUE AQUI PARA GARANTIR O SEU DESCONTO</button>
+           <button onClick={() => openInNewTab('https://pay.hotmart.com/I72056899U?off=bfuoyjdv&checkoutMode=10')} className='button-desc'>HAZ CLIC AQUÍ PARA OBTENER TU DESCUENTO</button>
         <div className='slides'>
             <div className='content-header-top'><h1>(+) Depoimentos</h1></div>
      
