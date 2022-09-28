@@ -52,7 +52,7 @@ return (
              );
          })}
           <div className='button-create'>
-             <h1 className='desconto-title'>Asegura tu descuento <span className='text-desc'>BRL 147,00 por solo 12x BRL 9,74</span></h1>
+             <h1 className='desconto-title'>Asegura tu descuento <span className='text-desc'>27,00 dólares por 23,00 dólares</span></h1>
          </div>
            <button onClick={() => openInNewTab('https://pay.hotmart.com/I72056899U?off=bfuoyjdv&checkoutMode=10')} className='button-desc'>CLIQUE AQUI PARA GARANTIR O SEU DESCONTO</button>
         <div className='slides'>
